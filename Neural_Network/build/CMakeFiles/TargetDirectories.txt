@@ -1,0 +1,3 @@
+/home/hossam/Neural_Network/build/CMakeFiles/rebuild_cache.dir
+/home/hossam/Neural_Network/build/CMakeFiles/Neural.dir
+/home/hossam/Neural_Network/build/CMakeFiles/edit_cache.dir
